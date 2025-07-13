@@ -272,7 +272,7 @@ if __name__ == "__main__":
     mesh_dir = "./Mesh_Files"
     output_dir = "./Simulation_Results"
     progress_file = os.path.join(output_dir, "processing_progress.json")
-    max_nodes = 1000  # Set your desired maximum node count here
+    max_nodes = 2000  # Set your desired maximum node count here
     
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
