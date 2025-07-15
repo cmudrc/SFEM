@@ -57,11 +57,10 @@ The complete dataset used in this work is available on Google Drive:
 **[Download SFEM Dataset](https://drive.google.com/your-link-here)**
 
 ### Dataset Statistics
-- **Total size**: ~20GB
-- **STEP files**: 39,894 geometries (2.9GB) - Input for `mesh_generation.py`
-- **Mesh files**: 36,973 meshes (1.5GB) - Input for `simulation.py`
+- **Total size**: ~23GB
+- **STEP files**: 39,894 geometries (3GB) - Input for `mesh_generation.py`
 - **H5 simulation results**: 48,803 files - Input for `dataloader.py`
-  - Training: 6.6GB
+  - Training: 7GB
   - Validation: 1.2GB
   - Processed PyTorch data: 12GB - Ready for any PyTorch Geometric workflow
 
