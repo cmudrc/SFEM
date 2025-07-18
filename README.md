@@ -52,9 +52,9 @@ python -c "import torch; print(torch.version.cuda)"
 
 ## Dataset Access
 
-The complete dataset used in this work is available on Google Drive:
+The complete dataset used in this work is available on HuggingFace and Zenodo:
 
-**[Download SFEM Dataset](https://drive.google.com/your-link-here)**
+INSERT LINK WHEN AVAILABLE
 
 ### Dataset Statistics
 - **Total size**: ~23GB
