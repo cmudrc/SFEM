@@ -59,7 +59,7 @@ INSERT LINK WHEN AVAILABLE
 ### Dataset Statistics
 - **Total size**: ~23GB
 - **STEP files**: 39,894 geometries (3GB) - Input for `mesh_generation.py`
-- **H5 simulation results**: 48,803 files - Input for `dataloader.py`
+- **H5 simulation results**: 48,803 files - Output of `dataloader.py`
   - Training: 7GB
   - Validation: 1.2GB
   - Processed PyTorch data: 12GB - Ready for any PyTorch Geometric workflow
@@ -79,12 +79,4 @@ Each simulation result contains:
 
 ## Citation
 
-```bibtex
-@article{ezemba2025sfem,
-  title={Neural Network Surrogate Modeling for Stochastic FEM using 3D Graph Representations: A Comparative Study},
-  author={Ezemba, Jessica},
-  journal={},
-  year={2025},
-  keywords={Stochastic Finite Element Method, Graph Neural Network, Surrogate Model, Engineering Design}
-}
-```
+INSERT WHEN AVAILABLE
