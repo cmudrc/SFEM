@@ -78,11 +78,11 @@ Each simulation result contains:
 - Material: E = 2.303 GPa, ν = 0.4002
 
 ## Citation
-
+```
 @dataset{ezemba2025sfem,
   title={SFEM Dataset - Neural Network Surrogate Modeling for Stochastic FEM using 3D Graph Representations},
   author={Ezemba, Jessica},
   year={2025},
   publisher={Journal of Mechanical Design},
 }
-
+```
