@@ -52,9 +52,9 @@ python -c "import torch; print(torch.version.cuda)"
 
 ## Dataset Access
 
-The complete dataset used in this work is available on HuggingFace and Zenodo:
+The complete dataset used in this work is available on HuggingFace:
 
-INSERT LINK WHEN AVAILABLE
+[![Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/cmudrc/SFEM)
 
 ### Dataset Statistics
 - **Total size**: ~23GB
@@ -79,4 +79,10 @@ Each simulation result contains:
 
 ## Citation
 
-INSERT WHEN AVAILABLE
+@dataset{ezemba2025sfem,
+  title={SFEM Dataset - Neural Network Surrogate Modeling for Stochastic FEM using 3D Graph Representations},
+  author={Ezemba, Jessica},
+  year={2025},
+  publisher={Journal of Mechanical Design},
+}
+
