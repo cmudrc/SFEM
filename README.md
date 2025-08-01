@@ -79,10 +79,11 @@ Each simulation result contains:
 
 ## Citation
 ```
-@dataset{ezemba2025sfem,
-  title={SFEM Dataset - Neural Network Surrogate Modeling for Stochastic FEM using 3D Graph Representations},
-  author={Ezemba, Jessica},
-  year={2025},
-  publisher={Journal of Mechanical Design},
+@article{ezemba2025neural,
+  title={Neural Network Surrogate Modeling for Stochastic FEM using 3D Graph Representations: A Comparative Study},
+  author={Ezemba, Jessica and McComb, Christopher and Tucker, Conrad},
+  journal={Journal of Mechanical Design},
+  pages={1--15},
+  year={2025}
 }
 ```
